@@ -12,6 +12,7 @@ public class Candidate {
         }
     }
 
+    //setter
     public void Enter(int rollNo, float score, String name){
         this.name = name;
         this.rollNo = rollNo;
